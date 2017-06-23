@@ -1,0 +1,11 @@
+0	1	mikroCPIC1618.exe -MSF -DBG -pP12F1840 -DL -O11111114 -fo8 -N"C:\Users\alenn\Desktop\Summer Work 2017\FireflyDiagnosticKit\FirePIC_FireflyDebugger.mcppi" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Defs\" -SP"C:\Users\Public\Documents\Mikroelektronika\mikroC PRO for PIC\Uses\P16_Enh\" -SP"C:\Users\alenn\Desktop\Summer Work 2017\FireflyDiagnosticKit\" "FirePIC_FireflyDebugger.c" "__Lib_Math.mcl" "__Lib_MathDouble.mcl" "__Lib_System.mcl" "__Lib_Delays.mcl"	 
+hint: 0	1139	Available RAM: 240 [bytes], Available ROM: 4096 [bytes]	 
+diagnostics: 0	122	Compilation Started	FirePIC_FireflyDebugger.c
+diagnostics: 96	123	Compiled Successfully	FirePIC_FireflyDebugger.c
+diagnostics: 0	127	All files Compiled in 78 ms	 
+hint: 0	1144	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 240 (99%)	Used RAM (bytes): 0 (1%)  Free RAM (bytes): 240 (99%)
+hint: 0	1144	Used ROM (program words): 46 (1%)  Free ROM (program words): 4050 (99%)	Used ROM (program words): 46 (1%)  Free ROM (program words): 4050 (99%)
+diagnostics: 0	125	Project Linked Successfully	FirePIC_FireflyDebugger.mcppi
+diagnostics: 0	128	Linked in 31 ms	 
+diagnostics: 0	129	Project 'FirePIC_FireflyDebugger.mcppi' completed: 141 ms	 
+diagnostics: 0	103	Finished successfully: 23 Jun 2017, 15:16:50	FirePIC_FireflyDebugger.mcppi

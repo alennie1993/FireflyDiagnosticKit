@@ -1,0 +1,73 @@
+<?xml version="1.0"?>
+<MCU_DEVICE_FLAGS>
+  <DEVICE>
+    <DEVICE_NAME>P12F1840</DEVICE_NAME>
+    <SETTINGS>
+      <COUNT>16</COUNT>
+      <SETTING0>
+        <NAME>Oscillator Selection</NAME>
+        <DESCRIPTION>INTOSC oscillator: I/O function on CLKIN pin</DESCRIPTION>
+      </SETTING0>
+      <SETTING1>
+        <NAME>Watchdog Timer Enable</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING1>
+      <SETTING2>
+        <NAME>Power-up Timer Enable</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING2>
+      <SETTING3>
+        <NAME>MCLR Pin Function Select</NAME>
+        <DESCRIPTION>Enabled</DESCRIPTION>
+      </SETTING3>
+      <SETTING4>
+        <NAME>Flash Program Memory Code Protection</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING4>
+      <SETTING5>
+        <NAME>Data Memory Code Protection</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING5>
+      <SETTING6>
+        <NAME>Brown-out Reset Enable</NAME>
+        <DESCRIPTION>Enabled</DESCRIPTION>
+      </SETTING6>
+      <SETTING7>
+        <NAME>Clock Out Enable</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING7>
+      <SETTING8>
+        <NAME>Internal/External Switchover</NAME>
+        <DESCRIPTION>Enabled</DESCRIPTION>
+      </SETTING8>
+      <SETTING9>
+        <NAME>Fail-Safe Clock Monitor Enable</NAME>
+        <DESCRIPTION>Enabled</DESCRIPTION>
+      </SETTING9>
+      <SETTING10>
+        <NAME>Flash Memory Self-Write Protection</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING10>
+      <SETTING11>
+        <NAME>PLL Enable</NAME>
+        <DESCRIPTION>Enabled</DESCRIPTION>
+      </SETTING11>
+      <SETTING12>
+        <NAME>Stack Overflow/Underflow Reset Enable</NAME>
+        <DESCRIPTION>Enabled</DESCRIPTION>
+      </SETTING12>
+      <SETTING13>
+        <NAME>Brown-out Reset Voltage Selection</NAME>
+        <DESCRIPTION>Brown-out Reset Voltage (Vbor), low trip point selected.</DESCRIPTION>
+      </SETTING13>
+      <SETTING14>
+        <NAME>In-Circuit Debugger Mode</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING14>
+      <SETTING15>
+        <NAME>Low-Voltage Programming Enable</NAME>
+        <DESCRIPTION>Disabled</DESCRIPTION>
+      </SETTING15>
+    </SETTINGS>
+  </DEVICE>
+</MCU_DEVICE_FLAGS>
